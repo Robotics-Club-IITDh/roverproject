@@ -12,7 +12,7 @@ It also tracks the progress made on the project.
 [@Yugnsh](https://github.com/yugnsh46)  
 [@Palash](https://github.com/palashkakaday-sketch)  
 [@Sravya](https://github.com/Sravya2007/)  
-[@Nida]()  
+[@Nida](https://github.com/nidanaikwadi2007-rgb)  
 [@Swaray](https://github.com/Swaray43)  
 [@Rakshit](https://github.com/rakshit2596)  
 [@Souhardya](https://github.com/SouhardyaJoy2006)  
