@@ -15,6 +15,6 @@ It also tracks the progress made on the project.
 [@Nida]()  
 [@Swaray](https://github.com/Swaray43)  
 [@Rakshit](https://github.com/rakshit2596)  
-[@Souhardya](https://github.com/SouhardyaJoy2006) 
+[@Souhardya](https://github.com/SouhardyaJoy2006)  
 [@Aditya](https://github.com/AdySaz3658F)   
 [@Tushar](https://github.com/Tushar-Hegde)  
